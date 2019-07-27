@@ -1,0 +1,18 @@
+D:\Öğrenci Dosyaları\56\XOX\XOX.Web\bin\XOX.Web.dll.config
+D:\Öğrenci Dosyaları\56\XOX\XOX.Web\bin\XOX.Web.dll
+D:\Öğrenci Dosyaları\56\XOX\XOX.Web\bin\XOX.Web.pdb
+D:\Öğrenci Dosyaları\56\XOX\XOX.Web\obj\Debug\XOX.Web.csprojResolveAssemblyReference.cache
+D:\Öğrenci Dosyaları\56\XOX\XOX.Web\obj\Debug\XOX.Web.dll
+D:\Öğrenci Dosyaları\56\XOX\XOX.Web\obj\Debug\XOX.Web.pdb
+E:\30.12\XOX\XOX.Web\bin\XOX.Web.dll.config
+E:\30.12\XOX\XOX.Web\bin\XOX.Web.dll
+E:\30.12\XOX\XOX.Web\bin\XOX.Web.pdb
+E:\30.12\XOX\XOX.Web\obj\Debug\XOX.Web.csprojResolveAssemblyReference.cache
+E:\30.12\XOX\XOX.Web\obj\Debug\XOX.Web.dll
+E:\30.12\XOX\XOX.Web\obj\Debug\XOX.Web.pdb
+D:\Program Files (x86)\Okul Dosyaları\GELİŞMİŞ\30.12\XOX\XOX.Web\bin\XOX.Web.dll.config
+D:\Program Files (x86)\Okul Dosyaları\GELİŞMİŞ\30.12\XOX\XOX.Web\bin\XOX.Web.dll
+D:\Program Files (x86)\Okul Dosyaları\GELİŞMİŞ\30.12\XOX\XOX.Web\bin\XOX.Web.pdb
+D:\Program Files (x86)\Okul Dosyaları\GELİŞMİŞ\30.12\XOX\XOX.Web\obj\Debug\XOX.Web.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Okul Dosyaları\GELİŞMİŞ\30.12\XOX\XOX.Web\obj\Debug\XOX.Web.dll
+D:\Program Files (x86)\Okul Dosyaları\GELİŞMİŞ\30.12\XOX\XOX.Web\obj\Debug\XOX.Web.pdb
